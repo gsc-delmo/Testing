@@ -1,2 +1,2 @@
-An example project
-Just for Git research purpose
+An example project.
+Just for Git research purpose.
